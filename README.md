@@ -1,4 +1,11 @@
-## _Saudações tricolor_ 🏴
+## _Sejam muito bem vindo ao meu perfil_ 
+
+- Estou cursando o ALURA pela escola Ana Franco da Rocha Brando
+- Utilizo esse espaço para minha organização e comportilhamento dos meus projetos desenvolvidos 🗃️
+
+  ### Você pode entrar em contato comigo 📬
+  murilocezarino@gmail.com
+  @murilocezarino_
 
 <!--
 **MURILOchoolatelindt/MURILOchoolatelindt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
